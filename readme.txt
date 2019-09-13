@@ -1,2 +1,2 @@
-Lina María Duque Valencia - 25161604
-Tatiana Acero Cuellar - 251616
+Lina María Duque Valencia - 1026594226
+Tatiana Acero Cuellar - 1032495772
