@@ -6,7 +6,7 @@ int main(void)
 {
   std::ofstream fout("sumarmonica1.txt");
   double term = 0; double sum=0;
-  for(int N = 1.0; N < 1001; ++N){
+  for(int N = 1.0; N < 5001; ++N){
     term  = 1.0/N;
     sum += term;
           
